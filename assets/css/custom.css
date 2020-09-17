@@ -1,1 +1,10 @@
 /* Add here all your css styles (customizations) */
+
+.db-gradient {
+  background: rgb(137, 210, 217);
+  background: linear-gradient(
+    180deg,
+    rgba(137, 210, 217, 1) 0%,
+    rgba(16, 105, 114, 1) 100%
+  );
+}

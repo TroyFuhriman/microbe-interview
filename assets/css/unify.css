@@ -29955,7 +29955,7 @@ pre[class*="language-"] .toolbar-item a {
   Background Image Style
 ------------------------------------*/
 .g-bg-img-hero {
-  background-size: cover;
+  background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
 }
