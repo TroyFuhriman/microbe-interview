@@ -8,3 +8,14 @@
     rgba(16, 105, 114, 1) 100%
   );
 }
+
+.carousel-item.active {
+  z-index: 1;
+}
+.carousel-control-next,
+.carousel-control-prev {
+  z-index: 2;
+}
+.carousel-control-prev {
+  left: 50%;
+}
