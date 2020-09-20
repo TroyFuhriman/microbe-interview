@@ -39,10 +39,3 @@
 .nav-link.active {
   color: #6bc9c9;
 }
-
-.hover:hover + .hide {
-  display: block;
-}
-.hide {
-  display: none;
-}
